@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "oldjobobo.bg-intros",
+  "name": "Background Intros",
+  "version": "0.1.0",
+  "author": "OldJobobo",
+  "description": "Play matching wallpaper intros on background selection, without patching Omarchy.",
+  "kinds": ["service"],
+  "entryPoints": {"service": "Service.qml"}
+}
